@@ -172,7 +172,6 @@ Decimal separator display|1|1.5
 -|-|-
 AUTO|1|1.5
 ALWAYS|1.|1.5
-[/details]
 
 # Simple API (FormatNumberFolder.Simple)
 `function FormatNumber.Format(value: number, skeleton: string?): string`
