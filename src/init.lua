@@ -1,4 +1,4 @@
-local FormatNumber = {}
+local FormatNumber = { }
 
 FormatNumber.Version = require(script.Version)
 
@@ -7,4 +7,4 @@ FormatNumber.Simple = require(script.Simple)
 
 FormatNumber.Test = require(script.Test)
 
-return FormatNumber
+return table.freeze(FormatNumber)
