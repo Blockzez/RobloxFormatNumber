@@ -110,7 +110,7 @@ local ROUNDING_MODE_TO_SKELETON = {
 	[enums.RoundingMode.UP] = "rounding-mode-up",
 	[enums.RoundingMode.HALF_EVEN] = "rounding-mode-half-even",
 	[enums.RoundingMode.HALF_DOWN] = "rounding-mode-half-down",
-	[enums.RoundingMode.HALF_UP] = "rounding-half-up",
+	[enums.RoundingMode.HALF_UP] = "rounding-mode-half-up",
 }
 
 local GROUPING_TO_SKELETON = {
